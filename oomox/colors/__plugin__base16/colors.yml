@@ -1,0 +1,24 @@
+wallpaper: "/home/user/.config/jellyfishBackground.jpg"
+
+special:
+    background: "#1B242E"
+    foreground: "#a3bec0"
+    cursor: "#a3bec0"
+
+colors:
+    color0: "#1B242E"
+    color1: "#478578"
+    color2: "#D218D3"
+    color3: "#5A5B59"
+    color4: "#AB5350"
+    color5: "#3AA65B"
+    color6: "#AA9D52"
+    color7: "#a3bec0"
+    color8: "#728586"
+    color9: "#2B3543"
+    color10: "#2D544C"
+    color11: "#5A5B59"
+    color12: "#AB5350"
+    color13: "#3AA65B"
+    color14: "#AA9D52"
+    color15: "#a3bec0"

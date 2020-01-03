@@ -1,0 +1,22 @@
+2020/01/02-19:55:20.214 35c Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/02-19:55:20.214 35c Recovering log #12
+2020/01/02-19:55:20.215 35c Reusing old log /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000012.log 
+2020/01/02-19:56:21.297 5e3 Level-0 table #16: started
+2020/01/02-19:56:21.353 5e3 Level-0 table #16: 4915907 bytes OK
+2020/01/02-19:56:21.356 5e3 Delete type=0 #12
+2020/01/02-19:56:21.358 5e3 Compacting 4@0 + 1@1 files
+2020/01/02-19:56:21.434 5e3 Generated table #17@0: 1 keys, 4915569 bytes
+2020/01/02-19:56:21.437 5e3 Generated table #18@0: 4 keys, 408 bytes
+2020/01/02-19:56:21.437 5e3 Compacted 4@0 + 1@1 files => 4915977 bytes
+2020/01/02-19:56:21.440 5e3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/02-19:56:21.440 5e3 Delete type=2 #16
+2020/01/02-19:56:21.440 5e3 Delete type=2 #9
+2020/01/02-19:56:21.440 5e3 Delete type=2 #11
+2020/01/02-19:56:21.440 5e3 Delete type=2 #13
+2020/01/02-19:56:21.440 5e3 Delete type=2 #7
+2020/01/02-19:56:24.302 5e3 Level-0 table #20: started
+2020/01/02-19:56:24.360 5e3 Level-0 table #20: 4915822 bytes OK
+2020/01/02-19:56:24.363 5e3 Delete type=0 #15
+2020/01/02-19:58:01.904 5e3 Level-0 table #22: started
+2020/01/02-19:58:01.973 5e3 Level-0 table #22: 4915352 bytes OK
+2020/01/02-19:58:01.976 5e3 Delete type=0 #19

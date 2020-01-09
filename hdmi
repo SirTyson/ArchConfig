@@ -1,0 +1,16 @@
+#export DISPLAY=:1.0
+#optirun startlxde &
+#sleep 5
+#synergys -f -a 127.0.0.1 --display :0 -n gentoo &
+#sleep 5
+#synergyc -f -n hdmi --display :1 127.0.0.1 &
+#sleep 5
+#export DISPLAY=:0.0i
+if [ -e /etc/X11/xorg.conf.hdmi ]
+then 
+    mv /etc/X11/xorg.conf /etc/X11/xorg.conf.laptop
+    mv /etc/X11/xorg.conf.hdmi /etc/X11/xorg.conf
+    reboot
+else 
+    echo "HDMI already enabled"
+fi

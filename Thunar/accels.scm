@@ -14,6 +14,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/switch-next-tab" "<Primary>Page_Down")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-as-compact-list" "<Primary>3")
 ; (gtk_accel_path "<Actions>/ThunarWindow/about" "")
+; (gtk_accel_path "<Actions>/ThunarStandardView/setup-columns" "")
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open-with-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-file-system" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-parent" "<Alt>Up")

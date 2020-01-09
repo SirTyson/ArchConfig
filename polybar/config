@@ -78,9 +78,9 @@ alert = #bd2c40
 [bar/mainbar-i3]
 ;https://github.com/jaagr/polybar/wiki/Configuration
 
-monitor = eDP1
-monitor-fallback = DP-0
-monitor-strict = True
+;monitor = eDP-1
+;monitor-fallback = HDMI-1
+;monitor-strict = True
 override-redirect = false
 bottom = false
 fixed-center = true

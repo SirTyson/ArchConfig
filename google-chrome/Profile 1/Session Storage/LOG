@@ -1,9 +1,18 @@
-2020/01/02-19:55:20.275 33a Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2020/01/02-19:55:20.275 33a Recovering log #4
-2020/01/02-19:55:20.275 33a Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000004.log 
-2020/01/02-20:02:24.325 938 Level-0 table #8: started
-2020/01/02-20:02:24.331 938 Level-0 table #8: 49397 bytes OK
-2020/01/02-20:02:24.333 938 Delete type=0 #4
-2020/01/02-20:12:23.776 938 Level-0 table #10: started
-2020/01/02-20:12:23.781 938 Level-0 table #10: 19150 bytes OK
-2020/01/02-20:12:23.784 938 Delete type=0 #7
+2020/01/08-21:56:52.724 7ae Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2020/01/08-21:56:52.724 7ae Recovering log #82
+2020/01/08-21:56:52.725 7ae Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000082.log 
+2020/01/08-21:57:22.414 a11 Level-0 table #86: started
+2020/01/08-21:57:22.424 a11 Level-0 table #86: 71674 bytes OK
+2020/01/08-21:57:22.427 a11 Delete type=0 #82
+2020/01/08-21:59:55.763 a11 Level-0 table #88: started
+2020/01/08-21:59:55.766 a11 Level-0 table #88: 44767 bytes OK
+2020/01/08-21:59:55.769 a11 Delete type=0 #85
+2020/01/08-21:59:55.769 a11 Compacting 4@0 + 1@1 files
+2020/01/08-21:59:55.775 a11 Generated table #89@0: 892 keys, 131016 bytes
+2020/01/08-21:59:55.775 a11 Compacted 4@0 + 1@1 files => 131016 bytes
+2020/01/08-21:59:55.777 a11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/08-21:59:55.777 a11 Delete type=2 #88
+2020/01/08-21:59:55.777 a11 Delete type=2 #77
+2020/01/08-21:59:55.777 a11 Delete type=2 #86
+2020/01/08-21:59:55.777 a11 Delete type=2 #83
+2020/01/08-21:59:55.777 a11 Delete type=2 #80

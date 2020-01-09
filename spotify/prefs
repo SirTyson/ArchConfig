@@ -1,6 +1,6 @@
-autologin.blob="mSbZCcHKz1G7p8CVwtyCe6pxG7Bx8Ask2K/RYjMuOmm4Wbqz4rWSv4hjOR2WcR14EojH73/XWVx3pxVVvewtrjnTvNzoMSIbk9HFzBAvbHbALb/EjfwPzfuBLmILz2LJnbvEECMFcrtJrhcusoQk0Va/VMyAzAtwwDjZ92WmuNgdXSJfdDIMO6KFV0LDjnlNo7sQcout2T+jjBa9kdqKrw=="
 autologin.saved_credentials="{\"gttyson5\":[\"gttyson5\",\"mSbZCcHKz1G7p8CVwtyCe6pxG7Bx8Ask2K/RYjMuOmm4Wbqz4rWSv4hjOR2WcR14EojH73/XWVx3pxVVvewtrjnTvNzoMSIbk9HFzBAvbHbALb/EjfwPzfuBLmILz2LJnbvEECMFcrtJrhcusoQk0Va/VMyAzAtwwDjZ92WmuNgdXSJfdDIMO6KFV0LDjnlNo7sQcout2T+jjBa9kdqKrw==\"]}"
-app.window.position.x=18
+autologin.blob="mSbZCcHKz1G7p8CVwtyCe6pxG7Bx8Ask2K/RYjMuOmm4Wbqz4rWSv4hjOR2WcR14EojH73/XWVx3pxVVvewtrjnTvNzoMSIbk9HFzBAvbHbALb/EjfwPzfuBLmILz2LJnbvEECMFcrtJrhcusoQk0Va/VMyAzAtwwDjZ92WmuNgdXSJfdDIMO6KFV0LDjnlNo7sQcout2T+jjBa9kdqKrw=="
+app.window.position.x=964
 autologin.username="gttyson5"
 app.window.position.saved=true
 app.window.position.height=999
@@ -8,7 +8,7 @@ app.autostart-mode=""
 app.window.position.y=63
 autologin.canonical_username="gttyson5"
 storage.last-location="/home/user/.cache/spotify/Storage"
-app.window.position.width=1884
-core.clock_delta=0
+app.window.position.width=938
+core.clock_delta=-1
 app.last-launched-version="1.1.10.546.ge08ef575"
 app.autostart-configured=true

@@ -1,6 +1,24 @@
-2020/01/02-19:55:20.202 338 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
-2020/01/02-19:55:20.202 338 Recovering log #3
-2020/01/02-19:55:20.202 338 Reusing old log /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/000003.log 
-2020/01/02-20:00:29.633 938 Level-0 table #5: started
-2020/01/02-20:00:29.640 938 Level-0 table #5: 19485 bytes OK
-2020/01/02-20:00:29.643 938 Delete type=0 #3
+2020/01/08-21:56:52.981 7ae Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2020/01/08-21:56:52.981 7ae Recovering log #211
+2020/01/08-21:56:52.981 7ae Reusing old log /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/000211.log 
+2020/01/08-21:57:59.439 a11 Level-0 table #215: started
+2020/01/08-21:57:59.447 a11 Level-0 table #215: 24442 bytes OK
+2020/01/08-21:57:59.452 a11 Delete type=0 #211
+2020/01/08-21:59:45.926 a11 Level-0 table #217: started
+2020/01/08-21:59:45.931 a11 Level-0 table #217: 19700 bytes OK
+2020/01/08-21:59:45.934 a11 Delete type=0 #214
+2020/01/08-22:00:15.302 a11 Level-0 table #219: started
+2020/01/08-22:00:15.308 a11 Level-0 table #219: 13160 bytes OK
+2020/01/08-22:00:15.310 a11 Delete type=0 #216
+2020/01/08-22:00:15.310 a11 Compacting 4@0 + 1@1 files
+2020/01/08-22:00:15.319 a11 Generated table #220@0: 554 keys, 335949 bytes
+2020/01/08-22:00:15.319 a11 Compacted 4@0 + 1@1 files => 335949 bytes
+2020/01/08-22:00:15.321 a11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/08-22:00:15.321 a11 Delete type=2 #219
+2020/01/08-22:00:15.321 a11 Delete type=2 #212
+2020/01/08-22:00:15.321 a11 Delete type=2 #217
+2020/01/08-22:00:15.321 a11 Delete type=2 #215
+2020/01/08-22:00:15.321 a11 Delete type=2 #210
+2020/01/08-22:06:04.306 a11 Level-0 table #222: started
+2020/01/08-22:06:04.312 a11 Level-0 table #222: 14182 bytes OK
+2020/01/08-22:06:04.317 a11 Delete type=0 #218

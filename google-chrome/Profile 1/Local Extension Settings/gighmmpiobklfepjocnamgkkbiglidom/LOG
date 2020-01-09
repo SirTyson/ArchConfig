@@ -1,22 +1,20 @@
-2020/01/02-19:55:20.214 35c Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/02-19:55:20.214 35c Recovering log #12
-2020/01/02-19:55:20.215 35c Reusing old log /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000012.log 
-2020/01/02-19:56:21.297 5e3 Level-0 table #16: started
-2020/01/02-19:56:21.353 5e3 Level-0 table #16: 4915907 bytes OK
-2020/01/02-19:56:21.356 5e3 Delete type=0 #12
-2020/01/02-19:56:21.358 5e3 Compacting 4@0 + 1@1 files
-2020/01/02-19:56:21.434 5e3 Generated table #17@0: 1 keys, 4915569 bytes
-2020/01/02-19:56:21.437 5e3 Generated table #18@0: 4 keys, 408 bytes
-2020/01/02-19:56:21.437 5e3 Compacted 4@0 + 1@1 files => 4915977 bytes
-2020/01/02-19:56:21.440 5e3 compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/01/02-19:56:21.440 5e3 Delete type=2 #16
-2020/01/02-19:56:21.440 5e3 Delete type=2 #9
-2020/01/02-19:56:21.440 5e3 Delete type=2 #11
-2020/01/02-19:56:21.440 5e3 Delete type=2 #13
-2020/01/02-19:56:21.440 5e3 Delete type=2 #7
-2020/01/02-19:56:24.302 5e3 Level-0 table #20: started
-2020/01/02-19:56:24.360 5e3 Level-0 table #20: 4915822 bytes OK
-2020/01/02-19:56:24.363 5e3 Delete type=0 #15
-2020/01/02-19:58:01.904 5e3 Level-0 table #22: started
-2020/01/02-19:58:01.973 5e3 Level-0 table #22: 4915352 bytes OK
-2020/01/02-19:58:01.976 5e3 Delete type=0 #19
+2020/01/08-21:56:52.989 7ae Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/08-21:56:52.989 7ae Recovering log #226
+2020/01/08-21:56:52.989 7ae Reusing old log /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000226.log 
+2020/01/08-21:57:54.126 a5d Level-0 table #230: started
+2020/01/08-21:57:54.185 a5d Level-0 table #230: 4899629 bytes OK
+2020/01/08-21:57:54.188 a5d Delete type=0 #226
+2020/01/08-21:59:50.036 a5d Level-0 table #232: started
+2020/01/08-21:59:50.099 a5d Level-0 table #232: 4899818 bytes OK
+2020/01/08-21:59:50.102 a5d Delete type=0 #229
+2020/01/08-21:59:50.103 a5d Compacting 4@0 + 2@1 files
+2020/01/08-21:59:50.183 a5d Generated table #233@0: 1 keys, 4899555 bytes
+2020/01/08-21:59:50.186 a5d Generated table #234@0: 4 keys, 420 bytes
+2020/01/08-21:59:50.186 a5d Compacted 4@0 + 2@1 files => 4899975 bytes
+2020/01/08-21:59:50.188 a5d compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/08-21:59:50.188 a5d Delete type=2 #223
+2020/01/08-21:59:50.188 a5d Delete type=2 #213
+2020/01/08-21:59:50.188 a5d Delete type=2 #230
+2020/01/08-21:59:50.188 a5d Delete type=2 #225
+2020/01/08-21:59:50.188 a5d Delete type=2 #232
+2020/01/08-21:59:50.188 a5d Delete type=2 #227

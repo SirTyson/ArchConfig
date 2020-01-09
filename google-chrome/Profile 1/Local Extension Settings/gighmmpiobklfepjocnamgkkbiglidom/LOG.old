@@ -1,16 +1,20 @@
-2020/01/01-13:14:46.906 2ad4 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/01-13:15:07.295 2e58 Level-0 table #5: started
-2020/01/01-13:15:07.328 2e58 Level-0 table #5: 2374988 bytes OK
-2020/01/01-13:15:07.332 2e58 Delete type=0 #3
-2020/01/01-13:15:40.880 2e58 Level-0 table #7: started
-2020/01/01-13:15:40.946 2e58 Level-0 table #7: 4915760 bytes OK
-2020/01/01-13:15:40.949 2e58 Delete type=0 #4
-2020/01/01-13:15:47.748 2e58 Level-0 table #9: started
-2020/01/01-13:15:47.814 2e58 Level-0 table #9: 4915679 bytes OK
-2020/01/01-13:15:47.817 2e58 Delete type=0 #6
-2020/01/01-13:15:48.136 2e58 Level-0 table #11: started
-2020/01/01-13:15:48.199 2e58 Level-0 table #11: 4915542 bytes OK
-2020/01/01-13:15:48.202 2e58 Delete type=0 #8
-2020/01/01-13:18:36.942 2e58 Level-0 table #13: started
-2020/01/01-13:18:37.014 2e58 Level-0 table #13: 4915823 bytes OK
-2020/01/01-13:18:37.017 2e58 Delete type=0 #10
+2020/01/08-21:44:19.241 45f Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/08-21:44:19.242 45f Recovering log #218
+2020/01/08-21:44:19.297 45f Level-0 table #221: started
+2020/01/08-21:44:19.364 45f Level-0 table #221: 4899548 bytes OK
+2020/01/08-21:44:19.368 45f Delete type=0 #218
+2020/01/08-21:44:19.369 550 Compacting 4@0 + 1@1 files
+2020/01/08-21:44:19.596 550 Generated table #223@0: 1 keys, 4899548 bytes
+2020/01/08-21:44:19.601 550 Compacted 4@0 + 1@1 files => 4899548 bytes
+2020/01/08-21:44:19.608 550 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/08-21:44:19.609 550 Delete type=2 #219
+2020/01/08-21:44:19.609 550 Delete type=2 #212
+2020/01/08-21:44:19.609 550 Delete type=2 #217
+2020/01/08-21:44:19.609 550 Delete type=2 #221
+2020/01/08-21:44:19.609 550 Delete type=2 #215
+2020/01/08-21:45:20.368 550 Level-0 table #225: started
+2020/01/08-21:45:20.431 550 Level-0 table #225: 4899618 bytes OK
+2020/01/08-21:45:20.435 550 Delete type=0 #222
+2020/01/08-21:48:35.740 550 Level-0 table #227: started
+2020/01/08-21:48:35.805 550 Level-0 table #227: 4899821 bytes OK
+2020/01/08-21:48:35.808 550 Delete type=0 #224

@@ -8,3 +8,4 @@ x-scheme-handler/ssh=Hyper.desktop
 
 [Added Associations]
 application/octet-stream=vim.desktop;
+application/pdf=google-chrome.desktop;

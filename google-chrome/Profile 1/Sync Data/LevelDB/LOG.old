@@ -1,3 +1,15 @@
-2020/01/08-21:44:18.775 457 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
-2020/01/08-21:44:18.775 457 Recovering log #39
-2020/01/08-21:44:18.776 457 Reusing old log /home/user/.config/google-chrome/Profile 1/Sync Data/LevelDB/000039.log 
+2020/01/09-16:35:21.111 aff Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2020/01/09-16:35:21.112 aff Recovering log #51
+2020/01/09-16:35:21.114 aff Reusing old log /home/user/.config/google-chrome/Profile 1/Sync Data/LevelDB/000051.log 
+2020/01/09-16:50:48.497 cd1 Level-0 table #55: started
+2020/01/09-16:50:48.502 cd1 Level-0 table #55: 107370 bytes OK
+2020/01/09-16:50:48.505 cd1 Delete type=0 #51
+2020/01/09-16:50:48.505 cd1 Compacting 4@0 + 1@1 files
+2020/01/09-16:50:48.512 cd1 Generated table #56@0: 713 keys, 117909 bytes
+2020/01/09-16:50:48.512 cd1 Compacted 4@0 + 1@1 files => 117909 bytes
+2020/01/09-16:50:48.515 cd1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/09-16:50:48.515 cd1 Delete type=2 #49
+2020/01/09-16:50:48.515 cd1 Delete type=2 #55
+2020/01/09-16:50:48.515 cd1 Delete type=2 #44
+2020/01/09-16:50:48.515 cd1 Delete type=2 #52
+2020/01/09-16:50:48.515 cd1 Delete type=2 #46

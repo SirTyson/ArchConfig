@@ -1,0 +1,26 @@
+[2020-01-08 23:11:21.603] [sharedprocess] [info] main {"machineId":"0905c33fd341aace8184955712c18857d57b5b2e805aff0260039168c4229eab","windowId":2}
+[2020-01-08 23:11:31.024] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-01-08 23:11:36.359] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/d47f64e8-3876-422d-964d-67230c7601fe
+[2020-01-08 23:11:37.192] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.ms-vscode.cpptools-0.26.2: ms-vscode.cpptools
+[2020-01-08 23:11:37.192] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/ms-vscode.cpptools-0.26.2
+[2020-01-08 23:11:37.195] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-01-08 23:11:37.205] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-01-08 23:11:52.274] [sharedprocess] [info] Installing extension: justusadam.language-haskell
+[2020-01-08 23:11:52.867] [sharedprocess] [info] Downloaded extension: justusadam.language-haskell /tmp/6e86bc75-c2b7-4640-9a9e-ca2f87305196
+[2020-01-08 23:11:52.901] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.justusadam.language-haskell-2.7.0: justusadam.language-haskell
+[2020-01-08 23:11:52.901] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/justusadam.language-haskell-2.7.0
+[2020-01-08 23:11:52.902] [sharedprocess] [info] Installation completed. justusadam.language-haskell
+[2020-01-08 23:11:52.907] [sharedprocess] [info] Extensions installed successfully: justusadam.language-haskell
+[2020-01-08 23:12:01.611] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-08 23:12:22.742] [sharedprocess] [info] Installing extension: ucl.haskelly
+[2020-01-08 23:12:23.992] [sharedprocess] [info] Downloaded extension: ucl.haskelly /tmp/1c492b27-d6b6-479e-9fc4-ea54034a25e4
+[2020-01-08 23:12:24.100] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.ucl.haskelly-0.5.5: ucl.haskelly
+[2020-01-08 23:12:24.100] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/ucl.haskelly-0.5.5
+[2020-01-08 23:12:24.101] [sharedprocess] [info] Installation completed. ucl.haskelly
+[2020-01-08 23:12:24.140] [sharedprocess] [info] Extensions installed successfully: ucl.haskelly
+[2020-01-08 23:14:31.179] [sharedprocess] [info] Installing extension: austin.code-gnu-global
+[2020-01-08 23:14:31.630] [sharedprocess] [info] Downloaded extension: austin.code-gnu-global /tmp/761c4f72-69d7-4c97-971b-aab2080df2c4
+[2020-01-08 23:14:31.683] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.austin.code-gnu-global-0.2.2: austin.code-gnu-global
+[2020-01-08 23:14:31.683] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/austin.code-gnu-global-0.2.2
+[2020-01-08 23:14:31.684] [sharedprocess] [info] Installation completed. austin.code-gnu-global
+[2020-01-08 23:14:31.690] [sharedprocess] [info] Extensions installed successfully: austin.code-gnu-global

@@ -1,18 +1,18 @@
-2020/01/08-21:56:52.724 7ae Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2020/01/08-21:56:52.724 7ae Recovering log #82
-2020/01/08-21:56:52.725 7ae Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000082.log 
-2020/01/08-21:57:22.414 a11 Level-0 table #86: started
-2020/01/08-21:57:22.424 a11 Level-0 table #86: 71674 bytes OK
-2020/01/08-21:57:22.427 a11 Delete type=0 #82
-2020/01/08-21:59:55.763 a11 Level-0 table #88: started
-2020/01/08-21:59:55.766 a11 Level-0 table #88: 44767 bytes OK
-2020/01/08-21:59:55.769 a11 Delete type=0 #85
-2020/01/08-21:59:55.769 a11 Compacting 4@0 + 1@1 files
-2020/01/08-21:59:55.775 a11 Generated table #89@0: 892 keys, 131016 bytes
-2020/01/08-21:59:55.775 a11 Compacted 4@0 + 1@1 files => 131016 bytes
-2020/01/08-21:59:55.777 a11 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/01/08-21:59:55.777 a11 Delete type=2 #88
-2020/01/08-21:59:55.777 a11 Delete type=2 #77
-2020/01/08-21:59:55.777 a11 Delete type=2 #86
-2020/01/08-21:59:55.777 a11 Delete type=2 #83
-2020/01/08-21:59:55.777 a11 Delete type=2 #80
+2020/01/09-17:08:15.656 1bcf Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2020/01/09-17:08:15.656 1bcf Recovering log #113
+2020/01/09-17:08:15.656 1bcf Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000113.log 
+2020/01/09-17:09:01.585 1de2 Level-0 table #117: started
+2020/01/09-17:09:01.592 1de2 Level-0 table #117: 19151 bytes OK
+2020/01/09-17:09:01.595 1de2 Delete type=0 #113
+2020/01/09-17:10:36.412 1de2 Level-0 table #119: started
+2020/01/09-17:10:36.418 1de2 Level-0 table #119: 15723 bytes OK
+2020/01/09-17:10:36.421 1de2 Delete type=0 #116
+2020/01/09-17:10:36.421 1de2 Compacting 4@0 + 1@1 files
+2020/01/09-17:10:36.427 1de2 Generated table #120@0: 1287 keys, 36157 bytes
+2020/01/09-17:10:36.427 1de2 Compacted 4@0 + 1@1 files => 36157 bytes
+2020/01/09-17:10:36.429 1de2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/09-17:10:36.429 1de2 Delete type=2 #119
+2020/01/09-17:10:36.429 1de2 Delete type=2 #117
+2020/01/09-17:10:36.429 1de2 Delete type=2 #109
+2020/01/09-17:10:36.429 1de2 Delete type=2 #114
+2020/01/09-17:10:36.429 1de2 Delete type=2 #112

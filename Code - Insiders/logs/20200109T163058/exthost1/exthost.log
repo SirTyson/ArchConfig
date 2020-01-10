@@ -1,0 +1,42 @@
+[2020-01-09 16:31:00.798] [exthost] [info] extension host started
+[2020-01-09 16:31:00.838] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell {"startup":false,"extensionId":{"value":"UCL.haskelly","_lower":"ucl.haskelly"},"activationEvent":"onLanguage:haskell"}
+[2020-01-09 16:31:00.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/justusadam.language-haskell-2.7.0/out/src/extension
+[2020-01-09 16:31:00.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-09 16:31:00.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-09 16:31:00.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-09 16:31:00.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/extension
+[2020-01-09 16:31:00.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-09 16:31:00.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-01-09 16:31:00.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-09 16:31:00.878] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-09 16:31:00.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-09 16:31:00.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-01-09 16:31:00.886] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme {"startup":true,"extensionId":{"value":"dlasagno.wal-theme","_lower":"dlasagno.wal-theme"},"activationEvent":"*"}
+[2020-01-09 16:31:00.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/dlasagno.wal-theme-1.0.3/out/extension.js
+[2020-01-09 16:31:00.930] [exthost] [info] ExtensionService#_doActivateExtension UCL.haskelly {"startup":false,"extensionId":{"value":"UCL.haskelly","_lower":"ucl.haskelly"},"activationEvent":"onLanguage:haskell"}
+[2020-01-09 16:31:00.930] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ucl.haskelly-0.5.5/out/src/extension
+[2020-01-09 16:31:00.949] [exthost] [info] eager extensions activated
+[2020-01-09 16:31:29.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-09 16:31:29.404] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-09 16:31:29.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-09 16:31:29.408] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-09 16:31:29.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-09 16:31:29.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-09 16:37:07.674] [exthost] [info] extension host started
+[2020-01-09 16:37:07.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-09 16:37:07.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-09 16:37:07.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-09 16:37:07.708] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/extension
+[2020-01-09 16:37:07.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-09 16:37:07.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-01-09 16:37:07.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-09 16:37:07.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-09 16:37:07.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-09 16:37:07.738] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-01-09 16:37:07.739] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme {"startup":true,"extensionId":{"value":"dlasagno.wal-theme","_lower":"dlasagno.wal-theme"},"activationEvent":"*"}
+[2020-01-09 16:37:07.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/dlasagno.wal-theme-1.0.3/out/extension.js
+[2020-01-09 16:37:07.776] [exthost] [info] eager extensions activated
+[2020-01-09 16:37:12.942] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell {"startup":false,"extensionId":{"value":"UCL.haskelly","_lower":"ucl.haskelly"},"activationEvent":"onLanguage:haskell"}
+[2020-01-09 16:37:12.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/justusadam.language-haskell-2.7.0/out/src/extension
+[2020-01-09 16:37:12.994] [exthost] [info] ExtensionService#_doActivateExtension UCL.haskelly {"startup":false,"extensionId":{"value":"UCL.haskelly","_lower":"ucl.haskelly"},"activationEvent":"onLanguage:haskell"}
+[2020-01-09 16:37:12.995] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/user/.vscode-insiders/extensions/ucl.haskelly-0.5.5/out/src/extension

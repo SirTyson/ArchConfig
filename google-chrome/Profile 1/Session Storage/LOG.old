@@ -1,3 +1,9 @@
-2020/01/08-21:44:18.956 45f Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2020/01/08-21:44:18.956 45f Recovering log #82
-2020/01/08-21:44:18.957 45f Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000082.log 
+2020/01/09-16:35:21.302 af6 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2020/01/09-16:35:21.302 af6 Recovering log #107
+2020/01/09-16:35:21.303 af6 Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000107.log 
+2020/01/09-16:35:21.657 bd5 Level-0 table #112: started
+2020/01/09-16:35:21.663 bd5 Level-0 table #112: 17357 bytes OK
+2020/01/09-16:35:21.666 bd5 Delete type=0 #107
+2020/01/09-17:04:15.781 bd5 Level-0 table #114: started
+2020/01/09-17:04:15.789 bd5 Level-0 table #114: 17512 bytes OK
+2020/01/09-17:04:15.792 bd5 Delete type=0 #111

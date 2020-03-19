@@ -1,0 +1,23 @@
+file:///home/user/Downloads/designDoc2.tmpl {"mtime":1580104043677,"ctime":1580104043677,"size":5356,"etag":"34hca3rlk5ho","orphaned":false}
+gcc 
+-m32 
+-c  
+-g 
+-msoft-float
+ -O 
+ -march=i686
+  -fno-stack-protector
+   -nostdinc
+    -I../..
+	 -I../../lib
+	  -I../../lib/kernel 
+	  -Wall 
+	  -W 
+	  -Wstrict-prototypes
+	   -Wmissing-prototypes
+	    -Wsystem-headers 
+		-DUSERPROG
+		 -DFILESYS
+		  -MMD 
+		  -MF
+		   threads/init.d

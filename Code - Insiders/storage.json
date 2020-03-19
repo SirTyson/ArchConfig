@@ -2,11 +2,20 @@
     "telemetry.machineId": "0905c33fd341aace8184955712c18857d57b5b2e805aff0260039168c4229eab",
     "openedPathsList": {
         "workspaces3": [
+            "vscode-remote://ssh-remote%2Brice.stanford.edu/home/gttyson/afs-home/CS140",
             "file:///home/user/CS_stuff/CS43/lect2",
             "file:///home/user/CS_stuff/first-projet"
         ],
         "files2": [
+            "file:///home/user/Downloads/designDoc2.tmpl",
+            "file:///home/user/Downloads/HW0/HW0_solutions.tex",
+            "file:///home/user/Downloads/threads.tmpl",
             "file:///home/user/CS_stuff/cPractice/mallocPrac/mymalloc.c"
+        ],
+        "workspaceLabels": [
+            "/home/gttyson/afs-home/CS140 [SSH: rice.stanford.edu]",
+            null,
+            null
         ]
     },
     "lastKnownMenubarData": {
@@ -1435,13 +1444,12 @@
     "themeBackground": "#1b242e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/user/CS_stuff/CS43/lect2",
-            "backupPath": "/home/user/.config/Code - Insiders/Backups/4cfa19aed6913c57c1ade900542b8275",
+            "backupPath": "/home/user/.config/Code - Insiders/Backups/1580104117055",
             "uiState": {
                 "mode": 1,
-                "x": 961,
+                "x": 5,
                 "y": 50,
-                "width": 954,
+                "width": 1910,
                 "height": 1025
             }
         },

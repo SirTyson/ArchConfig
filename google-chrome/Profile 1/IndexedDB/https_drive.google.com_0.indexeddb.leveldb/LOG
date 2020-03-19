@@ -1,3 +1,17 @@
-2020/01/09-16:35:25.951 aff Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/01/09-16:35:25.951 aff Recovering log #29
-2020/01/09-16:35:25.955 aff Reusing old log /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000029.log 
+2020/03/18-21:30:32.750 398 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/18-21:30:32.750 398 Recovering log #1013
+2020/03/18-21:30:32.751 398 Reusing old log /home/user/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001013.log 
+2020/03/18-21:31:07.898 589 Compacting 2@0 + 3@1 files
+2020/03/18-21:31:07.934 589 Generated table #1016@0: 231 keys, 2417567 bytes
+2020/03/18-21:31:07.950 589 Generated table #1017@0: 4 keys, 2120700 bytes
+2020/03/18-21:31:07.973 589 Generated table #1018@0: 29 keys, 886668 bytes
+2020/03/18-21:31:07.974 589 Compacted 2@0 + 3@1 files => 5424935 bytes
+2020/03/18-21:31:07.977 589 compacted to: files[ 0 3 5 0 0 0 0 ]
+2020/03/18-21:31:07.978 589 Delete type=2 #1014
+2020/03/18-21:31:07.978 589 Delete type=2 #1009
+2020/03/18-21:31:07.978 589 Delete type=2 #1008
+2020/03/18-21:31:07.978 589 Delete type=2 #1010
+2020/03/18-21:31:07.978 589 Delete type=2 #1012
+2020/03/18-21:31:08.348 589 Level-0 table #1020: started
+2020/03/18-21:31:08.361 589 Level-0 table #1020: 606390 bytes OK
+2020/03/18-21:31:08.364 589 Delete type=0 #1013

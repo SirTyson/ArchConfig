@@ -1,0 +1,412 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://waterinsights.azurewebsites.net/processImage",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-02-17T03:26:27.667Z",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1581909987667
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1581909987676
+	},
+	{
+		"name": "TEXT",
+		"value": "Too old connection (645 seconds), disconnect it\n",
+		"timestamp": 1581909987696
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 53 seems to be dead!\n",
+		"timestamp": 1581909987696
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 53\n",
+		"timestamp": 1581909987696
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 40.122.114.229:443...\n",
+		"timestamp": 1581909987766
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1581909987766
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to waterinsights.azurewebsites.net (40.122.114.229) port 443 (#54)\n",
+		"timestamp": 1581909988831
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1581909988831
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1581909988831
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1581909988838
+	},
+	{
+		"name": "TEXT",
+		"value": "  CAfile: /tmp/insomnia_7.1.0/2017-09-20.pem\n  CApath: none\n",
+		"timestamp": 1581909988838
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1581909988839
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1581909988910
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1581909988910
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1581909988911
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1581909988911
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1581909988911
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1581909988911
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1581909988911
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1581909988974
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1581909988974
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server did not agree to a protocol\n",
+		"timestamp": 1581909988974
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: CN=*.azurewebsites.net\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Sep 24 02:18:56 2019 GMT\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Sep 24 02:18:56 2021 GMT\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"waterinsights.azurewebsites.net\" matched cert's \"*.azurewebsites.net\"\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; ST=Washington; L=Redmond; O=Microsoft Corporation; OU=Microsoft IT; CN=Microsoft IT TLS CA 5\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /processImage HTTP/1.1\r\nHost: waterinsights.azurewebsites.net\r\nUser-Agent: insomnia/7.1.0\r\nContent-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY\r\nAccept: */*\r\nContent-Length: 2260194\r\n\r\n",
+		"timestamp": 1581909988975
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.9 KB hidden)",
+		"timestamp": 1581909988977
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989041
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989093
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989105
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989170
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989172
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989212
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989217
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989218
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989220
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989222
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989264
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989265
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989268
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989270
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989273
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989275
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989277
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989280
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989282
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989308
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989317
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989326
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989327
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989329
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989331
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989334
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989336
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989339
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989340
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1581909989342
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1581909989344
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989345
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1581909989347
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(29.6 KB hidden)",
+		"timestamp": 1581909989348
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1581909989348
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1581909989572
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 502 Bad Gateway\r\n",
+		"timestamp": 1581909989572
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 260\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "ETag: \"5e4992dd-104\"\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Mon, 17 Feb 2020 03:26:29 GMT\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 260 B chunk",
+		"timestamp": 1581909989573
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #54 to host waterinsights.azurewebsites.net left intact\n",
+		"timestamp": 1581909989573
+	}
+]

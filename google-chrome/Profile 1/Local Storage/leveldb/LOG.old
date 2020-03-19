@@ -1,3 +1,43 @@
-2020/01/09-16:35:21.582 b26 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
-2020/01/09-16:35:21.583 b26 Recovering log #320
-2020/01/09-16:35:21.583 b26 Reusing old log /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/000320.log 
+2020/03/15-10:28:02.489 a3e Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2020/03/15-10:28:02.490 a3e Recovering log #2787
+2020/03/15-10:28:02.490 a3e Reusing old log /home/user/.config/google-chrome/Profile 1/Local Storage/leveldb/002787.log 
+2020/03/15-12:40:01.458 14fb Level-0 table #2791: started
+2020/03/15-12:40:01.465 14fb Level-0 table #2791: 14104 bytes OK
+2020/03/15-12:40:01.469 14fb Delete type=0 #2787
+2020/03/15-15:55:01.459 14fb Level-0 table #2793: started
+2020/03/15-15:55:01.465 14fb Level-0 table #2793: 16259 bytes OK
+2020/03/15-15:55:01.467 14fb Delete type=0 #2790
+2020/03/15-15:55:01.467 14fb Compacting 4@0 + 2@1 files
+2020/03/15-15:55:01.503 14fb Generated table #2794@0: 5547 keys, 2123070 bytes
+2020/03/15-15:55:01.517 14fb Generated table #2795@0: 224 keys, 507590 bytes
+2020/03/15-15:55:01.517 14fb Compacted 4@0 + 2@1 files => 2630660 bytes
+2020/03/15-15:55:01.520 14fb compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/03/15-15:55:01.520 14fb Delete type=2 #2785
+2020/03/15-15:55:01.520 14fb Delete type=2 #2717
+2020/03/15-15:55:01.520 14fb Delete type=2 #2783
+2020/03/15-15:55:01.520 14fb Delete type=2 #2791
+2020/03/15-15:55:01.520 14fb Delete type=2 #2788
+2020/03/15-15:55:01.520 14fb Delete type=2 #2793
+2020/03/15-16:13:11.403 14fb Level-0 table #2797: started
+2020/03/15-16:13:11.408 14fb Level-0 table #2797: 14504 bytes OK
+2020/03/15-16:13:11.411 14fb Delete type=0 #2792
+2020/03/15-17:36:04.500 14fb Level-0 table #2799: started
+2020/03/15-17:36:04.506 14fb Level-0 table #2799: 13950 bytes OK
+2020/03/15-17:36:04.509 14fb Delete type=0 #2796
+2020/03/15-18:20:01.461 14fb Level-0 table #2801: started
+2020/03/15-18:20:01.471 14fb Level-0 table #2801: 13083 bytes OK
+2020/03/15-18:20:01.475 14fb Delete type=0 #2798
+2020/03/15-18:30:01.459 14fb Level-0 table #2803: started
+2020/03/15-18:30:01.466 14fb Level-0 table #2803: 11914 bytes OK
+2020/03/15-18:30:01.470 14fb Delete type=0 #2800
+2020/03/15-18:30:01.470 14fb Compacting 4@0 + 2@1 files
+2020/03/15-18:30:01.534 14fb Generated table #2804@0: 5558 keys, 2125636 bytes
+2020/03/15-18:30:01.548 14fb Generated table #2805@0: 224 keys, 507591 bytes
+2020/03/15-18:30:01.548 14fb Compacted 4@0 + 2@1 files => 2633227 bytes
+2020/03/15-18:30:01.551 14fb compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/03/15-18:30:01.551 14fb Delete type=2 #2797
+2020/03/15-18:30:01.551 14fb Delete type=2 #2801
+2020/03/15-18:30:01.551 14fb Delete type=2 #2795
+2020/03/15-18:30:01.551 14fb Delete type=2 #2794
+2020/03/15-18:30:01.551 14fb Delete type=2 #2799
+2020/03/15-18:30:01.551 14fb Delete type=2 #2803

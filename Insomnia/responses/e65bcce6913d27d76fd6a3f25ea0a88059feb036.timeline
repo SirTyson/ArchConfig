@@ -1,0 +1,117 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://waterinsights.azurewebsites.net/processImage",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-02-17T03:38:21.579Z",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1581910701579
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1581910701581
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host waterinsights.azurewebsites.net: 0x3b326d37dc00 [serially]\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#55) with host waterinsights.azurewebsites.net\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to waterinsights.azurewebsites.net (40.122.114.229) port 443 (#55)\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /processImage HTTP/1.1\r\nHost: waterinsights.azurewebsites.net\r\nUser-Agent: insomnia/7.1.0\r\nContent-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY\r\nAccept: */*\r\nContent-Length: 25\r\n\r\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "--X-INSOMNIA-BOUNDARY--\r\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1581910701586
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 417 EXPECTATION FAILED\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 13\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: gunicorn/19.9.0\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Mon, 17 Feb 2020 03:38:20 GMT\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 13 B chunk",
+		"timestamp": 1581910701672
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #55 to host waterinsights.azurewebsites.net left intact\n",
+		"timestamp": 1581910701672
+	}
+]

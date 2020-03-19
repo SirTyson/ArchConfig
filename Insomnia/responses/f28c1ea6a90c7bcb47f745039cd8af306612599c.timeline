@@ -1,0 +1,332 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://waterinsights.azurewebsites.net/processImage",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-02-24T04:40:16.490Z",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1582519216490
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1582519216495
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 40.122.114.229:443...\n",
+		"timestamp": 1582519216664
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1582519216664
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to waterinsights.azurewebsites.net (40.122.114.229) port 443 (#0)\n",
+		"timestamp": 1582519216730
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1582519216734
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1582519216734
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1582519216754
+	},
+	{
+		"name": "TEXT",
+		"value": "  CAfile: /tmp/insomnia_7.1.0/2017-09-20.pem\n  CApath: none\n",
+		"timestamp": 1582519216754
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1582519216756
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1582519216824
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1582519216824
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1582519216826
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1582519216826
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1582519216827
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1582519216828
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1582519216828
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server did not agree to a protocol\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: CN=*.azurewebsites.net\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Sep 24 02:18:56 2019 GMT\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Sep 24 02:18:56 2021 GMT\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"waterinsights.azurewebsites.net\" matched cert's \"*.azurewebsites.net\"\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; ST=Washington; L=Redmond; O=Microsoft Corporation; OU=Microsoft IT; CN=Microsoft IT TLS CA 5\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1582519216896
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /processImage HTTP/1.1\r\nHost: waterinsights.azurewebsites.net\r\nUser-Agent: insomnia/7.1.0\r\nContent-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY\r\nAccept: */*\r\nContent-Length: 2260194\r\n\r\n",
+		"timestamp": 1582519216897
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.9 KB hidden)",
+		"timestamp": 1582519216902
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519217105
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519217629
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519217762
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519218094
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519218368
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519218710
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519219206
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519219846
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519220409
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519221008
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519221695
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519222177
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519222846
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519223742
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519225309
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519226086
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519226927
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519227419
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519228026
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519228560
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519229365
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519230125
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519231134
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519232157
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519232673
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519232985
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519233255
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519233454
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519233740
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519234044
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519234451
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519235090
+	}
+]

@@ -1,18 +1,3 @@
-2020/01/09-17:08:15.656 1bcf Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2020/01/09-17:08:15.656 1bcf Recovering log #113
-2020/01/09-17:08:15.656 1bcf Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000113.log 
-2020/01/09-17:09:01.585 1de2 Level-0 table #117: started
-2020/01/09-17:09:01.592 1de2 Level-0 table #117: 19151 bytes OK
-2020/01/09-17:09:01.595 1de2 Delete type=0 #113
-2020/01/09-17:10:36.412 1de2 Level-0 table #119: started
-2020/01/09-17:10:36.418 1de2 Level-0 table #119: 15723 bytes OK
-2020/01/09-17:10:36.421 1de2 Delete type=0 #116
-2020/01/09-17:10:36.421 1de2 Compacting 4@0 + 1@1 files
-2020/01/09-17:10:36.427 1de2 Generated table #120@0: 1287 keys, 36157 bytes
-2020/01/09-17:10:36.427 1de2 Compacted 4@0 + 1@1 files => 36157 bytes
-2020/01/09-17:10:36.429 1de2 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/01/09-17:10:36.429 1de2 Delete type=2 #119
-2020/01/09-17:10:36.429 1de2 Delete type=2 #117
-2020/01/09-17:10:36.429 1de2 Delete type=2 #109
-2020/01/09-17:10:36.429 1de2 Delete type=2 #114
-2020/01/09-17:10:36.429 1de2 Delete type=2 #112
+2020/03/18-21:30:30.387 3c2 Reusing MANIFEST /home/user/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2020/03/18-21:30:30.388 3c2 Recovering log #930
+2020/03/18-21:30:30.389 3c2 Reusing old log /home/user/.config/google-chrome/Profile 1/Session Storage/000930.log 

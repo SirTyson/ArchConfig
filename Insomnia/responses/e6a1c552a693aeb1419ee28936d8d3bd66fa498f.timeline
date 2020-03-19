@@ -1,0 +1,282 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://waterinsights.azurewebsites.net/processImage",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-02-24T04:44:25.619Z",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1582519465619
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1582519465624
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host waterinsights.azurewebsites.net: 0x347943fc8a50 [serially]\n",
+		"timestamp": 1582519465650
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1582519465650
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#1) with host waterinsights.azurewebsites.net\n",
+		"timestamp": 1582519465650
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to waterinsights.azurewebsites.net (40.122.114.229) port 443 (#1)\n",
+		"timestamp": 1582519465650
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /processImage HTTP/1.1\r\nHost: waterinsights.azurewebsites.net\r\nUser-Agent: insomnia/7.1.0\r\nContent-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY\r\nAccept: */*\r\nContent-Length: 2260194\r\n\r\n",
+		"timestamp": 1582519465650
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.9 KB hidden)",
+		"timestamp": 1582519465652
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519467007
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519467014
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519467890
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519469572
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519470256
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519471209
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519471823
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519472499
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519473206
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519474398
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519475006
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519476330
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519477324
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519478473
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519479143
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519479790
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519480636
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519481170
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519481581
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519482252
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519483152
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519484543
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519485740
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519486277
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519486844
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519487325
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519487764
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519488199
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519488730
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.5 KB hidden)",
+		"timestamp": 1582519489241
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.7 KB hidden)",
+		"timestamp": 1582519489874
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519490476
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(60.6 KB hidden)",
+		"timestamp": 1582519491187
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "(29.6 KB hidden)",
+		"timestamp": 1582519491695
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1582519491695
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: gunicorn/19.9.0\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Mon, 24 Feb 2020 04:44:52 GMT\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 0\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1582519492841
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host waterinsights.azurewebsites.net left intact\n",
+		"timestamp": 1582519492841
+	}
+]

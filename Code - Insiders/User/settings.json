@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Wal",
     "window.titleBarStyle": "custom",
-    "window.zoomLevel": 1,
-    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "C_Cpp.default.cStandard": "c99"
 }

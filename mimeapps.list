@@ -5,7 +5,11 @@ x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/unknown=google-chrome.desktop
 x-scheme-handler/ssh=Hyper.desktop
+x-scheme-handler/eclipse+installer=_home_user_Downloads_eclipse-installer_.desktop
+x-scheme-handler/mailto=google-chrome.desktop
 
 [Added Associations]
 application/octet-stream=vim.desktop;
 application/pdf=google-chrome.desktop;
+text/plain=visual-studio-code-insiders.desktop;
+text/x-tex=visual-studio-code-insiders.desktop;

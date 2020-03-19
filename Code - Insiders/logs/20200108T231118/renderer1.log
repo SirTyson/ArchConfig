@@ -1,4 +1,0 @@
-[2020-01-08 23:11:19.931] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/CS_stuff/cPractice/mallocPrac/mymalloc.c'
-[2020-01-08 23:11:19.931] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/CS_stuff/cPractice/mallocPrac/mymalloc.c'
-[2020-01-08 23:12:30.219] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/CS_stuff/cPractice/mallocPrac/mymalloc.c'
-[2020-01-08 23:12:30.220] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/CS_stuff/cPractice/mallocPrac/mymalloc.c'

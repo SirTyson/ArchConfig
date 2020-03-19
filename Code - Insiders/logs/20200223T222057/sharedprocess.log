@@ -1,0 +1,14 @@
+[2020-02-23 22:21:00.858] [sharedprocess] [info] main {"machineId":"0905c33fd341aace8184955712c18857d57b5b2e805aff0260039168c4229eab","windowId":2}
+[2020-02-23 22:21:02.637] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2020-02-23 22:21:02.638] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2020-02-23 22:21:03.487] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /tmp/bc8abc33-619f-41ad-ad23-c534c9411d34
+[2020-02-23 22:21:03.527] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.ms-vscode-remote.remote-ssh-edit-0.49.0: ms-vscode-remote.remote-ssh-edit
+[2020-02-23 22:21:03.528] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/ms-vscode-remote.remote-ssh-edit-0.49.0
+[2020-02-23 22:21:03.528] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2020-02-23 22:21:03.541] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2020-02-23 22:21:06.563] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/d66131da-9c47-460f-8a05-ea5d834f1c92
+[2020-02-23 22:21:06.693] [sharedprocess] [info] Extracted extension to /home/user/.vscode-insiders/extensions/.ms-vscode-remote.remote-ssh-0.49.0: ms-vscode-remote.remote-ssh
+[2020-02-23 22:21:06.693] [sharedprocess] [info] Renamed to /home/user/.vscode-insiders/extensions/ms-vscode-remote.remote-ssh-0.49.0
+[2020-02-23 22:21:06.694] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2020-02-23 22:21:06.704] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2020-02-23 22:21:40.866] [sharedprocess] [info] Starting to clean up unused language packs.
